@@ -1,2 +1,3 @@
 # AgileCourse_Tut1
 Practice the usage of GitHub...
+Starting small.
